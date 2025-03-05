@@ -1,4 +1,4 @@
-# Supermarket Sales Dashboard - Power BI 🚀
+# Supermarket Sales Dashboard - Power BI 
 
 ## Project Overview
 This interactive Power BI dashboard provides a deep dive into sales, enabling stakeholders to explore sales data with dynamic visualizations and filters.
@@ -12,9 +12,9 @@ This interactive Power BI dashboard provides a deep dive into sales, enabling st
 - Power BI
 
 ## Key Features
-- 📊 Dynamic filtering by product, region, and date.
-- 📈 Trend analysis and top-product insights.
-- 💼 KPI cards for quick business overview.
+-  Dynamic filtering by product, region, and date.
+-  Trend analysis and top-product insights.
+-  KPI cards for quick business overview.
 
 
 ---
