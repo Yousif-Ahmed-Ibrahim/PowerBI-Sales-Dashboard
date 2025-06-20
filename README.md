@@ -1,62 +1,36 @@
-# Sales Dashboard | Brainwave Matrix Internship – Task 1
+# Power BI Sales Dashboard
 
+This project is an interactive sales performance dashboard built using Power BI.  
+It is designed to help businesses track and understand key performance metrics using clean, visual reporting.
 
-## Introduction
+## Project Overview
 
-This repository showcases the first assigned task during my internship at **Brainwave Matrix Solutions**. The objective was to build an interactive and insightful **Sales Dashboard** using **Power BI** to deliver a clear understanding of business performance across various dimensions.
+The dashboard includes:
 
-The final output is a dynamic, filter-enabled dashboard that provides strategic insights into sales trends, customer segments, shipping performance, and regional metrics.
+- KPI Cards for Sales, Profit, Quantity, and Discount
+- Dynamic filters by Region, Segment, City, and Shipping Mode
+- Year-over-year comparison with trend charts
+- Clean layout to support quick decision-making
 
----
+This project was completed during a training program to simulate real-world sales data analysis.
 
-## Dashboard Highlights
+## Tools and Techniques Used
 
-### Key Metrics
-- **Total Sales**: 2.30 Million
-- **Total Profit**: 286.40K
-- **Total Quantity**: 38K
-- **Total Discount**: 1.56K
+- Power BI
+- DAX (Data Analysis Expressions)
+- Data Cleaning and Modeling
+- Data Visualization
 
-### Data Visualizations
-- **Sales by Year**: Trend line chart showing annual growth (2014–2017)
-- **Sales by Category**: Donut chart showing category-wise performance
-- **Sales by Segment**: Segment-wise distribution via pie chart
-- **Sales by Region**: Bar chart displaying performance across regions
-- **Sales by Ship Mode**: Comparative chart for delivery methods
+## Preview
 
-### Interactive Filters
-- State  
-- City  
-- Salesperson  
-- Sub-Category
+Image and PDF versions of the dashboard are included in this repository.  
+The .pbix file is not shared for privacy reasons.
 
-These filters enable users to drill down into granular levels of data for tailored analysis.
+## Use Case
 
----
+This dashboard is ideal for small businesses, sales teams, or anyone who needs fast access to performance insights.  
+It can be fully customized to fit real data and specific business needs.
 
-## Tools & Technologies
+## Contact
 
-- **Power BI** – Data modeling and visualization  
-- **Microsoft Excel** – Data preprocessing  
-- **GitHub** – Version control and public repository  
-- **LinkedIn** – Professional sharing platform  
-
----
-
-## How to Use
-
-1. Clone or download this repository.
-2. Use the slicers on the left panel to filter data and explore insights interactively.
-
----
-
-## Live Project
-
-The project has been shared on my LinkedIn profile as part of the internship deliverables:
-
-🔗 [View LinkedIn Post](https://www.linkedin.com/posts/yousif-ahmed-ibrahim_dataanalytics-powerbi-businessintelligence-activity-7317201792025411585-bqR1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDJYW4BTDecHXqmIQjD7N-T0EAet2ahkPo)
-
----
-
-## Repository Structure
-
+If you're interested in similar dashboards or would like to work together, feel free to connect on LinkedIn or reach out directly.
