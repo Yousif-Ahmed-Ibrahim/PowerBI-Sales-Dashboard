@@ -1,36 +1,51 @@
 # Power BI Sales Dashboard
 
-This project is an interactive sales performance dashboard built using Power BI.  
-It is designed to help businesses track and understand key performance metrics using clean, visual reporting.
+A professional, real-world style dashboard created with Power BI as part of a hands-on analytics training experience.
+
+This dashboard is designed to help businesses monitor and analyze their sales performance through clean, interactive, and insightful visuals.
+
+## Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
 
 ## Project Overview
 
-The dashboard includes:
+This Power BI dashboard includes:
 
 - KPI Cards for Sales, Profit, Quantity, and Discount
-- Dynamic filters by Region, Segment, City, and Shipping Mode
-- Year-over-year comparison with trend charts
-- Clean layout to support quick decision-making
+- Interactive filters for Region, Segment, City, Sub-category, and Shipping Mode
+- Year-over-year trend analysis with dynamic line charts
+- A clean and user-friendly layout to support quick business decisions
 
-This project was completed during a training program to simulate real-world sales data analysis.
+This project was built during a training project focused on applying data analytics to simulate real-world business needs.
 
-## Tools and Techniques Used
+## Tools and Skills Used
 
-- Power BI
-- DAX (Data Analysis Expressions)
-- Data Cleaning and Modeling
-- Data Visualization
+- Microsoft Power BI  
+- DAX (Data Analysis Expressions)  
+- Data Modeling  
+- Data Cleaning  
+- Data Visualization  
+- Business Intelligence Concepts  
 
-## Preview
+## Files Included
 
-Image and PDF versions of the dashboard are included in this repository.  
-The .pbix file is not shared for privacy reasons.
+- `dashboard.png` – Snapshot of the dashboard  
+- `dashboard.pdf` – Printable version of the dashboard preview  
+- README file (this one)  
+
+Note: The `.pbix` file is not included to maintain data privacy.
 
 ## Use Case
 
-This dashboard is ideal for small businesses, sales teams, or anyone who needs fast access to performance insights.  
-It can be fully customized to fit real data and specific business needs.
+This dashboard template is ideal for:
 
-## Contact
+- Small and medium businesses tracking performance  
+- Sales teams monitoring key metrics  
+- Anyone looking to develop interactive dashboards with real impact
 
-If you're interested in similar dashboards or would like to work together, feel free to connect on LinkedIn or reach out directly.
+## Connect with Me
+
+If you’re interested in similar dashboards or data analytics services, feel free to reach out or connect:
+
+[LinkedIn – Yousif Ahmed](https://www.linkedin.com/in/yousif-ahmed-ibrahim/)
